@@ -1,0 +1,5 @@
+## Interface:110002
+## Title: SkadaPlus
+## Author: 苏彩彩
+## Dependencies: Skada
+SkadaPlus.lua
