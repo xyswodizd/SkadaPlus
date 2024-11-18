@@ -1,5 +1,5 @@
-## Interface:110002
+## Interface:110005
 ## Title: SkadaPlus
-## Author: 苏彩彩
+## Author: 咸鱼
 ## Dependencies: Skada
 SkadaPlus.lua
