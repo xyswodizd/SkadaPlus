@@ -40,5 +40,7 @@ end)
 PlayerFrame:UnregisterEvent("UNIT_COMBAT")
 --隐藏宠物头像伤害治疗数字
 PetFrame:UnregisterEvent("UNIT_COMBAT")
+--鼠标提示信息跟随鼠标锚点
+hooksecurefunc("GameTooltip_SetDefaultAnchor", function (t,p)t:SetOwner(p, "ANCHOR_CURSOR_RIGHT", 40, -120)end)
 
 
